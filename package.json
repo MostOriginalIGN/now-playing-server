@@ -3,5 +3,26 @@
     "cors": "^2.8.5",
     "http": "^0.0.1-security",
     "ws": "^8.11.0"
-  }
+  },
+  "name": "now-playing-server",
+  "version": "1.0.0",
+  "description": "server to serve json data from WebNowPlaying to be used in HTML Apps",
+  "main": "nowplaying.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node nowplaying.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astrogamer54/now-playing-server.git"
+  },
+  "keywords": [
+    "WebNowPlaying"
+  ],
+  "author": "Astrogamer54",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Astrogamer54/now-playing-server/issues"
+  },
+  "homepage": "https://github.com/Astrogamer54/now-playing-server#readme"
 }
