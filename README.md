@@ -17,7 +17,7 @@ Hosts on http://127.0.0.1:8975/
  - ## Windows
 	**1. Open Powershell and paste the following commands:**
 	``` 
-	Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/khanhas/spicetify-cli/master/install.ps1" | Invoke-Expression
+	iwr -useb https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.ps1 | iex
 	spicetify
 	spicetify config extensions webnowplaying.js
 	```
