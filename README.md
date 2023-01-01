@@ -1,5 +1,9 @@
 # now-playing-server
 
+![JSON EXAMPLE](https://user-images.githubusercontent.com/78519393/210159888-bf400d7c-97ad-4f2e-9a4e-262f406e4459.png)
+
+![CONSOLE](https://user-images.githubusercontent.com/78519393/210159926-e289ad56-dabe-4670-aee0-164d6c0efc01.png)
+
 **!! REQUIRES [`WEBNOWPLAYING`](https://chrome.google.com/webstore/detail/webnowplaying-companion/jfakgfcdgpghbbefmdfjkbdlibjgnbli?hl=en-US) OR SPOTIFY NOW PLAYING WITH SPICETIFY !!**
 
 # Spicetify Setup
