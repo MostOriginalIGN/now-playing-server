@@ -1,6 +1,6 @@
 # now-playing-server
 
-Hosts on https://127.0.0.1:8975/
+Hosts on http://127.0.0.1:8975/
 
 ![JSON EXAMPLE](https://user-images.githubusercontent.com/78519393/210159888-bf400d7c-97ad-4f2e-9a4e-262f406e4459.png)
 
