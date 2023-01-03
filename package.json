@@ -2,15 +2,17 @@
   "dependencies": {
     "cors": "^2.8.5",
     "http": "^0.0.1-security",
+    "node-windows": "^1.0.0-beta.8",
     "ws": "^8.11.0"
   },
   "name": "now-playing-server",
   "version": "1.0.0",
   "description": "server to serve json data from WebNowPlaying to be used in HTML Apps",
   "main": "nowplaying.js",
-  "devDependencies": {},
   "scripts": {
-    "test": "node nowplaying.js"
+    "test": "node nowplaying.js",
+    "installWindows": "node installWindows.js",
+    "uninstallWindows": "node uninstWindows.js"
   },
   "repository": {
     "type": "git",
@@ -20,7 +22,7 @@
     "WebNowPlaying"
   ],
   "author": "Astrogamer54",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Astrogamer54/now-playing-server/issues"
   },
