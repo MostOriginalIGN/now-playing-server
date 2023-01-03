@@ -10,9 +10,14 @@ Hosts on http://127.0.0.1:8975/
 
 **!! REQUIRES [`WEBNOWPLAYING`](https://chrome.google.com/webstore/detail/webnowplaying-companion/jfakgfcdgpghbbefmdfjkbdlibjgnbli?hl=en-US) OR SPOTIFY NOW PLAYING WITH SPICETIFY !!**
 
+# Install
+
+## Windows
+Open Powershell and paste the following command:
+
+`iwr -useb https://raw.githubusercontent.com/Astrogamer54/now-playing-server/master/install.ps1 | iex`
+
 # Spicetify Setup
-
-
 
  - ## Windows
 	**1. Open Powershell and paste the following commands:**
