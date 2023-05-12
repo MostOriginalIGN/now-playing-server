@@ -1,4 +1,4 @@
-var Service = require('node-windows').Service;
+var Service = require('node-mac').Service;
 
 // Create a new service object
 var svc = new Service({
